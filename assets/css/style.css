@@ -1,0 +1,110 @@
+.col-md-10{
+text-align: center;
+}
+
+#instructions{
+    margin-left: 10px;
+}
+
+body{
+    background-color: rgb(3, 3, 75);
+}
+
+p{
+    color: white;
+}
+
+.card{
+    background-color: rgb(0, 81, 134);
+
+}
+
+h1{
+    padding: 10px;
+    color:  orangered;
+}
+h2{
+    color: rgb(255, 183, 27);
+}
+
+.wins{
+    color:aqua;
+}
+#wins{
+    color: aqua;
+}
+
+.loss{
+    color: red;
+}
+#loss{
+    color:red;
+}
+
+.card-text{
+    color: orange;
+}
+
+
+.col-md-2{
+    text-align: center;
+    display: inline;
+    float: none;
+}
+
+#number-to-match{
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    
+}
+
+#villain{
+  margin: auto;
+}
+
+.col-md-5{
+    text-align: center;
+    }
+
+#first{
+    margin-top: 5px;
+   margin-bottom: 5px;
+    float: left;
+    margin: 2px;
+}
+
+#second{
+   margin-top: 5px;
+   margin-bottom: 5px;
+    float: left;
+    margin: 2px;
+}
+#third{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left;
+    margin: 2px;
+}
+#fourth{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left;
+    margin: 2px;
+}
+
+
+#yourScore{
+   font:bold, 20px;
+}
+
+.card:hover{
+
+ background: linear-gradient(to bottom, rgba(255,0,0,0), rgba(255,0,0,1));
+  
+}
+.card:active{
+    
+    background: linear-gradient(to bottom, rgba(38, 0, 255, 0), rgba(255,0,0,1));
+     
+   }
